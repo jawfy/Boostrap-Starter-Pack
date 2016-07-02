@@ -18,5 +18,3 @@
 
 <h3>Credit</h3>
 <p>Credit to <a href="http://jackearsman.com">Jack Earsman</a>.</p>
-
-https://github.com/jawfy/downloads/Boostrap-Starter-Pack
